@@ -1,0 +1,30 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "James Anderson: England's record wicket-taker concerned by white ball-only contracts",
+      "description": "James Anderson says he is \"worried\" about the future of Test cricket after a number of players signed white ball-only contracts.",
+      "url": "http://www.bbc.co.uk/sport/cricket/43248504",
+      "urlToImage": "https://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/A34C/production/_100240814_james_anderson_reuters.jpg",
+      "publishedAt": "2018-03-01T18:35:10Z",
+      "id": 1
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Sourav Ganguly: Inside the mind of India's 'greatest' cricket captain",
+      "description": "Sourav Ganguly's memoir is not as explosive as his captaincy but has enough to satisfy fans.",
+      "url": "http://www.bbc.co.uk/news/world-asia-india-43298753",
+      "urlToImage": "https://ichef.bbci.co.uk/images/ic/1024x576/p0607t08.jpg",
+      "publishedAt": "2018-03-07T01:04:44Z",
+      "id": 2
+    }
+  ]
+}
